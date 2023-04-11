@@ -46,9 +46,9 @@
   <a href="https://github.com/code-wyk">  <!--热门语言，可修改-->
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=code-wyk&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
   </a>
-   <a href="https://github.com/code-wyk/MyBlog">  <!--pinned推荐项目,可修改-->
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=code-wyk&repo=CNblogs-Theme-NewSakura&theme=algolia"/>
-  </a>   <!--可修改-->
+<!--    <a href="https://github.com/code-wyk/MyBlog">  <!--pinned推荐项目,可修改-->
+<!--     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=code-wyk&repo=CNblogs-Theme-NewSakura&theme=algolia"/> -->
+<!--   </a>   可修改 --> -->
 </p>
 
 
