@@ -35,4 +35,4 @@
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-wyk&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=echowyk&show_icons=true&theme=radical)
