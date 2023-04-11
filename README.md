@@ -34,3 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-wyk)](https://github.com/anuraghazra/github-readme-stats)
